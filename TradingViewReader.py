@@ -2,7 +2,7 @@ import csv
 import os
 
 # Open the CSV file
-folder_path = './5minindex 1.3% AAA 115 points required 1.5BandSize'
+folder_path = './AAA 1.3% tested on midcap shares'
     # Initialize accumulators for the values we want to collect
 
 #some values that are standard
