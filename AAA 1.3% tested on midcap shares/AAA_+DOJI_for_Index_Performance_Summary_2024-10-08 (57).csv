@@ -1,0 +1,28 @@
+,All AUD,All %,Long AUD,Long %,Short AUD,Short %
+Net Profit,322.42,0.32,322.42,0.32,0,0.00
+Gross Profit,873.19,0.87,873.19,0.87,0,0.00
+Gross Loss,550.77,0.55,550.77,0.55,0,0.00
+Max Run-up,363.86,0.36,,,,
+Max Drawdown,1206.71,1.20,,,,
+Buy & Hold Return,-35490.39,-35.49,,,,
+Sharpe Ratio,-3.967,,,,,
+Sortino Ratio,-0.97,,,,,
+Profit Factor,1.585,,1.585,,N/A,
+Max Contracts Held,2544,,2544,,0,
+Open PL,0,0.00,,,,
+Commission Paid,80.00,,80.00,,0,
+Total Closed Trades,13,,13,,0,
+Total Open Trades,0,,0,,0,
+Number Winning Trades,10,,10,,0,
+Number Losing Trades,3,,3,,0,
+Percent Profitable,76.92,,76.92,,N/A,
+Avg Trade,24.80,0.99,24.80,0.99,N/A,N/A
+Avg Winning Trade,87.32,3.50,87.32,3.50,N/A,N/A
+Avg Losing Trade,183.59,7.36,183.59,7.36,N/A,N/A
+Ratio Avg Win / Avg Loss,0.476,,0.476,,N/A,
+Largest Winning Trade,185.86,7.46,185.86,7.46,N/A,N/A
+Largest Losing Trade,274.54,11.07,274.54,11.07,N/A,N/A
+Avg # Bars in Trades,1839,,1839,,0,
+Avg # Bars in Winning Trades,1536,,1536,,0,
+Avg # Bars in Losing Trades,2847,,2847,,0,
+Margin Calls,0,,0,,0,
